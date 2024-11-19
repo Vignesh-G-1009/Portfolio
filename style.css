@@ -274,7 +274,6 @@ a {
     color: white;
 }
 
-/* Hobbies Section */
 .hobbies-section {
     padding: 40px 0;
     border-bottom: 1px solid #444;
@@ -331,13 +330,12 @@ a {
         font-size: 1.5rem;
     }
 }
-/* General Section Styling */
+
 section {
     padding: 40px 0;
-    border-bottom: 1px solid #444; /* Adding border to sections */
+    border-bottom: 1px solid #444; 
 }
 
-/* About Section */
 .about-section {
     padding: 40px 0;
 }
@@ -348,7 +346,6 @@ section {
     color: #00b4d8;
 }
 
-/* Certifications Section */
 .certifications-section {
     padding: 40px 0;
 }
@@ -359,10 +356,9 @@ section {
     color: #00b4d8;
 }
 
-/* Languages Section */
 .languages-section {
     padding: 40px 0;
-    border-bottom: 1px solid #444; /* Ensure border-bottom is applied */
+    border-bottom: 1px solid #444;
 }
 
 .languages-section h2 {
